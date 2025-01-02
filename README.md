@@ -2,6 +2,7 @@
 
 ## The Challenge
 Create the most impressive portfolio website using only HTML, CSS, and JavaScript - with a twist: all your code must be written in just 3 lines!
+Join here: https://discord.gg/JWVMk9pvPS
 
 ### Rules 📋
 
