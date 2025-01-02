@@ -18,7 +18,7 @@ Join here: https://discord.gg/JWVMk9pvPS
 ```
 
 2. **Core Rules**
-3. 
+   
   - ✅ All CSS must be written in line 1 (inside the `<style>` tag)
   - ✅ All HTML content must be written in line 2 (inside the `<body>` tag)
   - ✅ All JavaScript must be written in line 3 (inside the `<script>` tag)
