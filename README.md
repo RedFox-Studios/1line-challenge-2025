@@ -87,11 +87,12 @@ Create the most impressive portfolio website using only HTML, CSS, and JavaScrip
 
 
 ### Prizes 🏅
-- 🥇 First Place: TBA
-- 🥈 Second Place: TBA
-- 🥉 Third Place: TBA
-- 🎨 Best Design: TBA
-- 💻 Most Creative Code: TBA
+- 🥇 **First Place**: RedFox Studios VIP for 4 accounts
+- 🥈 **Second Place**: RedFox Studios Discord VIP Membership for 3 accounts
+- 🥉 **Third Place**: RedFox Studios Discord VIP Membership for 2 accounts
+- 🎨 **Best Design**: RedFox Studios Discord VIP Membership for 1 account
+- 💻 **Most Creative Code**: RedFox Studios Discord VIP Membership for 1 account
+
 
 ### FAQ ❓
 
