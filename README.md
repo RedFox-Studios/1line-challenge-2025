@@ -18,12 +18,15 @@ Join here: https://discord.gg/JWVMk9pvPS
 ```
 
 2. **Core Rules**
+3. 
   - ✅ All CSS must be written in line 1 (inside the `<style>` tag)
   - ✅ All HTML content must be written in line 2 (inside the `<body>` tag)
   - ✅ All JavaScript must be written in line 3 (inside the `<script>` tag)
   - ✅ DOCTYPE and meta tags don't count towards the line limit
 
+
 3. **Restrictions**
+   
   - ❌ No external frameworks or libraries (no Bootstrap, jQuery, etc.)
   - ❌ No external CSS files
   - ❌ No external JavaScript files
@@ -34,6 +37,7 @@ Join here: https://discord.gg/JWVMk9pvPS
   - ❌ No external fonts (use system fonts only)
   - ❌ No minifiers or code compressors
 
+
 4. **Requirements**
   - Must be a portfolio website
   - Must be responsive
@@ -43,11 +47,13 @@ Join here: https://discord.gg/JWVMk9pvPS
 
 
 ### Judging Criteria 🏆
+
 1. **Design**
   - Visual appeal
   - User experience
   - Responsiveness
   - Creativity
+
 
 2. **Code Quality**
   - Efficiency
@@ -55,11 +61,13 @@ Join here: https://discord.gg/JWVMk9pvPS
   - Browser compatibility
   - Performance
 
+
 3. **Functionality**
   - Features implemented
   - Interactivity
   - Smooth animations
   - Error-free execution
+
 
 ### Tips for Success 💡
 1. Plan your code structure before writing
@@ -88,6 +96,7 @@ Join here: https://discord.gg/JWVMk9pvPS
 
 
 ### Prizes 🏅
+
 - 🥇 **First Place**: RedFox Studios VIP for 4 accounts
 - 🥈 **Second Place**: RedFox Studios Discord VIP Membership for 3 accounts
 - 🥉 **Third Place**: RedFox Studios Discord VIP Membership for 2 accounts
